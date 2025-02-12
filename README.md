@@ -1,1 +1,1 @@
-# Music-Database. This project is a relational database system designed to manage and retrieve information about songs, artists, albums, playlists, and users efficiently. It allows users to create playlists, search for songs, and explore music collections with optimized queries and views.
+This project is a relational database system designed to manage and retrieve information about songs, artists, albums, playlists, and users efficiently. It allows users to create playlists, search for songs, and explore music collections with optimized queries and views.
